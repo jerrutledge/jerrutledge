@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning unreal, OpenCV, and Godot
 - 💞️ I’m looking to collaborate on some games
 - Reach me on twitter @jerrutledge or by email
+- Pronouns: He/him
 
 <!---
 jerrutledge/jerrutledge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
